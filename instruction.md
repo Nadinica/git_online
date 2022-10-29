@@ -103,3 +103,5 @@ const b = 2 alert(a+b)``
  [ключ]:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmgnZDuXK6APjc5jjLscjRpkAhU2gvdjJwl0pJrCAPCIJ6uVYbPt9u6jeBhRPV7nERIXk&usqp=CAU "Подсказка"
 
 ![Привет это Тефтелька!](Тефтелька.png)
+
+Конец.
